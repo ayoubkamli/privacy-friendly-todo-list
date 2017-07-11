@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import org.secuso.privacyfriendlytodolist.R;
 
-public class Settings extends AppCompatActivity {
+public class Settings extends BaseActivity {
 
     private static final String TAG = Settings.class.getSimpleName();
 

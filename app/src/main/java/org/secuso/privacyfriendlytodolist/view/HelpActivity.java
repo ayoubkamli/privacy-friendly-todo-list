@@ -9,7 +9,7 @@ import android.view.MenuItem;
 
 import org.secuso.privacyfriendlytodolist.R;
 
-public class HelpActivity extends AppCompatActivity {
+public class HelpActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -35,7 +35,7 @@ import org.secuso.privacyfriendlytodolist.view.dialog.WelcomeDialog;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
+public class MainActivity extends BaseActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     private static final String TAG = MainActivity.class.getSimpleName();
 
@@ -242,6 +242,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         navigationView.setNavigationItemSelectedListener(this);
     }
 
+    // TODO: Funktioniert nicht ..
     public void uncheckNavigationEntries() {
         // uncheck all navigtion entries
         if (navigationView != null) {

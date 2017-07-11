@@ -134,7 +134,7 @@
     <string name="add_pin">Entrer le code PIN pour ouvrir l\'application. Il doit être composé quatre chiffres au moins.</string>
 
     <!-- Settings -->
-    <string name="default_reminder_time">Notification par défaut</STRING>
+    <string name="default_reminder_time">Notification par défaut</string>
     <string-array name="default_reminder_times_human">
         <item>Le jour de la date limite</item>
         <item>0,5 jour avant</item>

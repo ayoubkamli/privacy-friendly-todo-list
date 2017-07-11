@@ -3,7 +3,6 @@
 
     <item android:title="@string/todos">
         <menu>
-
             <item
                 android:id="@+id/menu_home"
                 android:icon="@android:drawable/btn_star"
